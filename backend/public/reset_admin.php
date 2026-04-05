@@ -4,7 +4,7 @@ require_once '../config/Database.php';
 $database = new Database();
 $db = $database->connect();
 
-$email = 'admin@incredibleindia.com';
+$email = 'admin@rgvtourandtravels.com';
 $password = 'admin123';
 $hashed_password = password_hash($password, PASSWORD_DEFAULT);
 

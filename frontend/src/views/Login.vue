@@ -60,7 +60,7 @@
       <div class="flex items-center h-full w-full bg-gray-900 bg-opacity-40">
         <div class="text-white px-20">
           <h1 class="text-5xl font-bold mb-6 font-serif">Welcome Back</h1>
-          <p class="text-xl">Sign in to continue your journey with Incredible India Tours.</p>
+          <p class="text-xl">Sign in to continue your journey with RGV Tour and Travels.</p>
         </div>
       </div>
     </div>

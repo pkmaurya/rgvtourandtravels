@@ -159,7 +159,7 @@ const fetchTour = async () => {
         
         // SEO: Update Title and Meta Tags
         if(tour.value) {
-            document.title = `${tour.value.title} | Incredible India Tours`
+            document.title = `${tour.value.title} | RGV Tour and Travels`
             // Basic meta description update (could be improved with a proper composable)
             let metaDesc = document.querySelector('meta[name="description"]')
             if (!metaDesc) {

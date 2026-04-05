@@ -74,7 +74,7 @@
       <div class="flex items-center h-full w-full bg-gray-900 bg-opacity-40">
         <div class="text-white px-20">
           <h1 class="text-5xl font-bold mb-6 font-serif">Begin Your Journey</h1>
-          <p class="text-xl">Join Incredible India Tours and explore the beauty of India.</p>
+          <p class="text-xl">Join RGV Tour and Travels and explore the beauty of India.</p>
         </div>
       </div>
     </div>

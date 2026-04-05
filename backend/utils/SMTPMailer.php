@@ -33,7 +33,7 @@ class SMTPMailer {
         $headers = "MIME-Version: 1.0\r\n";
         $headers .= "Content-type: text/html; charset=utf-8\r\n";
         $headers .= "To: $to\r\n";
-        $headers .= "From: Incredible India Tours <$this->username>\r\n";
+        $headers .= "From: RGV Tour and Travels <$this->username>\r\n";
         $headers .= "Subject: $subject\r\n";
 
         $message = "$headers\r\n$body\r\n.\r\n";

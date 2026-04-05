@@ -1,4 +1,4 @@
-# Incredible India Tours
+# RGV Tour and Travels
 
 A full-stack tour and travel booking website built with Vue.js (Frontend) and PHP (Backend).
 

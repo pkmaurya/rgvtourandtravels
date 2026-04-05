@@ -1,10 +1,10 @@
--- Seed Data for Incredible India Tours
+-- Seed Data for RGV Tour and Travels
 USE incredible_india_tours;
 
 -- Insert Admin User (Password: admin123)
 -- Hash generated using PHP password_hash('admin123', PASSWORD_DEFAULT)
 INSERT INTO users (name, email, password, role) VALUES 
-('Admin User', 'admin@incredibleindia.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin'),
+('Admin User', 'admin@rgvtourandtravels.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin'),
 ('John Doe', 'john@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'user');
 
 -- Insert Destinations

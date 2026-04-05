@@ -6,7 +6,7 @@
         <!-- Brand Section -->
         <div>
           <h2 class="text-2xl font-bold text-brand-secondary mb-4 flex items-center gap-2 font-serif">
-            <span>Incredible India</span>
+            <span>RGV Tour and Travels</span>
           </h2>
           <p class="text-gray-400 leading-relaxed mb-6">
             Embark on a journey through the heart of India. We craft unforgettable experiences, blending luxury with authentic cultural immersion.
@@ -53,7 +53,7 @@
              </li>
              <li class="flex items-center">
                <svg class="h-6 w-6 text-brand-secondary mr-3 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
-               <span class="text-gray-400">info@incredibleindia.com</span>
+               <span class="text-gray-400">info@rgvtourandtravels.com</span>
              </li>
            </ul>
         </div>
@@ -72,7 +72,7 @@
 
       <div class="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
         <p class="text-gray-500 text-sm">
-          &copy; {{ new Date().getFullYear() }} Incredible India Tours. All rights reserved.
+          &copy; {{ new Date().getFullYear() }} RGV Tour and Travels. All rights reserved.
         </p>
         <div class="flex space-x-6 mt-4 md:mt-0">
           <a href="#" class="text-gray-500 hover:text-white text-sm">Privacy Policy</a>

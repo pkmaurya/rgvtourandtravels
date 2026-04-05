@@ -6,7 +6,7 @@
         <div class="flex justify-between h-16">
           <div class="flex">
             <div class="flex-shrink-0 flex items-center">
-              <router-link to="/" class="text-2xl font-bold text-brand-secondary font-serif">Incredible India</router-link>
+              <router-link to="/" class="text-2xl font-bold text-brand-secondary font-serif">RGV Tour and Travels</router-link>
             </div>
             <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
               <router-link to="/" class="border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Home</router-link>

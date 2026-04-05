@@ -12,7 +12,7 @@
             Creating Memories That Last a Lifetime
           </p>
           <p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-            At Incredible India Tours, we don't just plan trips; we craft experiences. 
+            At RGV Tour and Travels, we don't just plan trips; we craft experiences. 
             From the snow-capped Himalayas to the tropical beaches of the south, 
             we guide you through the heart of India's diverse culture and heritage.
           </p>

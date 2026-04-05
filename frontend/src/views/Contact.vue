@@ -115,8 +115,8 @@
                  </div>
                  <div class="ml-4">
                      <h3 class="text-lg font-medium text-gray-900">Email</h3>
-                     <p class="mt-2 text-base text-gray-500">info@incredibleindiatours.com</p>
-                     <p class="text-base text-gray-500">support@incredibleindiatours.com</p>
+                     <p class="mt-2 text-base text-gray-500">info@rgvtourandtravels.com</p>
+                     <p class="text-base text-gray-500">support@rgvtourandtravels.com</p>
                  </div>
             </div>
 

@@ -19,10 +19,10 @@ try {
     
     // Seed default settings
     $defaults = [
-        ['site_title', 'Incredible India Tours', 'general'],
+        ['site_title', 'RGV Tour and Travels', 'general'],
         ['site_description', 'Discover the beauty of India with our curated tours.', 'general'],
         ['site_logo', '', 'general'],
-        ['contact_email', 'info@incredibleindia.com', 'general'],
+        ['contact_email', 'info@rgvtourandtravels.com', 'general'],
         ['contact_phone', '+91 1234567890', 'general'],
         ['currency_symbol', '₹', 'payment'],
         ['razorpay_key_id', '', 'payment'],

@@ -65,7 +65,7 @@
       <div class="flex items-center h-full w-full bg-gray-900 bg-opacity-40">
         <div class="text-white px-20">
           <h1 class="text-5xl font-bold mb-6 font-serif">Secure Account</h1>
-          <p class="text-xl">Recover access to your Incredible India Tours account.</p>
+          <p class="text-xl">Recover access to your RGV Tour and Travels account.</p>
         </div>
       </div>
     </div>

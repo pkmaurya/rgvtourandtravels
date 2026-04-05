@@ -171,7 +171,7 @@ const handleRazorpayPayment = async () => {
             key: config.value.razorpay_key_id, 
             amount: orderData.amount,
             currency: orderData.currency,
-            name: "Incredible India Tours",
+            name: "RGV Tour and Travels",
             description: `Payment for Booking #${booking.value.id}`,
             order_id: orderData.id,
             handler: async function (response) {

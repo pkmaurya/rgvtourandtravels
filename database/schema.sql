@@ -1,4 +1,4 @@
--- Database Schema for Incredible India Tours
+-- Database Schema for RGV Tour and Travels
 
 CREATE DATABASE IF NOT EXISTS incredible_india_tours;
 USE incredible_india_tours;

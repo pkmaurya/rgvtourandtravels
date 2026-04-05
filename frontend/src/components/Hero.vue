@@ -11,7 +11,7 @@
     <!-- Content -->
     <div class="relative z-10 text-center px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto">
       <h1 class="text-4xl md:text-6xl font-extrabold text-white tracking-tight mb-6 animate-fade-in-up">
-        Discover the Soul of <span class="text-brand-secondary font-serif italic">Incredible India</span>
+        Discover the Soul of <span class="text-brand-secondary font-serif italic">RGV Tour and Travels</span>
       </h1>
       <p class="text-lg md:text-xl text-gray-200 mb-10 max-w-3xl mx-auto leading-relaxed animate-fade-in-up delay-100">
         Experience breathtaking landscapes, timeless heritage, and vibrant culture. 

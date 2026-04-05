@@ -49,7 +49,7 @@ onMounted(async () => {
         
         // SEO: Update Title and Meta Tags
         if(destination.value) {
-            document.title = `${destination.value.name} Tours | Incredible India`
+            document.title = `${destination.value.name} Tours | RGV Tour and Travels`
             // Meta Description
             let metaDesc = document.querySelector('meta[name="description"]')
             if (!metaDesc) {

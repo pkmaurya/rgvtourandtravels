@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../config/Database.php';
 
-echo "--- Incredible India Tours Database Installer ---\n";
+echo "--- RGV Tour and Travels Database Installer ---\n";
 
 // 1. Verify Connection
 echo "Attempting to connect to database...\n";

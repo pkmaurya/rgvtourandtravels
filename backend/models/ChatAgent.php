@@ -13,7 +13,7 @@ class ChatAgent {
         // 1. Check for basic greetings/intents
         if ($this->isGreeting($message)) {
             return [
-                'answer' => "Hello! 👋 Welcome to Incredible India Tours. How can I assist you with your travel plans today?",
+                'answer' => "Hello! 👋 Welcome to RGV Tour and Travels. How can I assist you with your travel plans today?",
                 'suggestions' => $this->getCategorySuggestions()
             ];
         }
