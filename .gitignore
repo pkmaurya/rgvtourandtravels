@@ -1,0 +1,7 @@
+node_modules/
+vendor/
+.env
+.DS_Store
+*.zip
+cpanel_upload.zip
+cpanel_ready/

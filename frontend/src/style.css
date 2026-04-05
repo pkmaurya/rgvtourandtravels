@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+    --color-india-orange: #FF9933;
+    --color-india-green: #138808;
+    --color-india-blue: #000080;
+
+    /* Modern Premium Palette */
+    --color-brand-primary: #047857;
+    /* Emerald 700 */
+    --color-brand-secondary: #D97706;
+    /* Amber 600 */
+    --color-brand-dark: #111827;
+    /* Gray 900 */
+    --color-brand-light: #F9FAFB;
+    /* Gray 50 */
+    --color-brand-accent: #B45309;
+    /* Amber 700 */
+
+    --font-sans: 'Outfit', sans-serif;
+    --font-serif: 'Playfair Display', serif;
+}
+
+/* Custom Styles */
+body {
+    font-family: 'Outfit', sans-serif;
+    @apply bg-brand-light text-brand-dark antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Playfair Display', serif;
+}
+
+.btn-primary {
+    @apply bg-brand-secondary text-white px-6 py-3 rounded-xl shadow-lg hover:bg-brand-accent transition-all duration-300 font-medium tracking-wide;
+}
+
+.btn-secondary {
+    @apply bg-white text-brand-dark px-6 py-3 rounded-xl shadow border border-gray-200 hover:bg-gray-50 transition-all duration-300 font-medium;
+}
